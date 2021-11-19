@@ -1,2 +1,2 @@
 # London Housing
- a brief data cleaning and summary of the London housing values iof 33 Boroughs
+ A brief data cleaning and summary of London housing values of 33 Boroughs
